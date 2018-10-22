@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #fbfbfb;
+  background: #1B2C34;
 }
 
 code {
@@ -20,8 +20,8 @@ code {
   justify-content: center;
   width: 48px;
   height: 48px;
-  border: 2px solid #545454;
-  color: #545454;
+  border: 2px solid #fefefe;
+  color: #fefefe;
   margin: 10px;
   border-radius: 4px;
 }
@@ -35,6 +35,6 @@ code {
 
 .playing {
   transition: 100ms;
-  background: #dd4c4f;
+  background: #F7CE3E;
   transform: scale(1.1);
 }
