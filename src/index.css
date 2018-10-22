@@ -36,5 +36,5 @@ code {
 .playing {
   transition: 100ms;
   background: #F7CE3E;
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
