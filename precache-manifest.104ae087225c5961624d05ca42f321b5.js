@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/drum-kit/static/css/main.eeb31ef2.chunk.css"
   },
   {
-    "revision": "2b5a0f9f7dd3f7a7dc8960636e352208",
+    "revision": "e68848de2f8ea42530b60f7c85f3e69d",
     "url": "/drum-kit/index.html"
   }
 ];
